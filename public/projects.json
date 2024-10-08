@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "title": "SafeStayNY",
+      "category": "Fullstack Development",
+      "image": "images/project-1.jpeg",
+      "link":"https://safestayny.vercel.app/"
+    },
+    {
+      "id": 2,
+      "title": "Jellycat",
+      "category": "Fullstack Development",
+      "image": "images/project-2.jpeg",
+      "link":"https://jellycat-524feb672551.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "title": "Covilla",
+      "category": "Web Development",
+      "image": "images/project-3.jpeg",
+      "link":"https://boer-coding.github.io/Covilla-Frontend-Project/"
+
+    },
+    {
+      "id": 4,
+      "title": "Weatherstack",
+      "category": "Web Development",
+      "image": "images/project-4.jpeg",
+      "link":"https://boer-coding.github.io/WeatherStack-Frontend-Clone/"
+
+    },
+    {
+      "id": 5,
+      "title": "Philadelphia Covid Data Explorer",
+      "category": "Java Project",
+      "image": "images/project-5.jpeg",
+      "link":"https://github.com/boer-coding/Philadelphia-Covid-Data-Explorer"
+
+    }
+  ]
+  
