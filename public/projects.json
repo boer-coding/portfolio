@@ -18,7 +18,7 @@
       "title": "Covilla",
       "category": "Web Development",
       "image": "images/project-3.jpeg",
-      "link":"https://boer-coding.github.io/Covilla-Frontend-Project/"
+      "link":"https://boer-coding.github.io/covilla-web-design/"
 
     },
     {
@@ -26,7 +26,7 @@
       "title": "Weatherstack",
       "category": "Web Development",
       "image": "images/project-4.jpeg",
-      "link":"https://boer-coding.github.io/WeatherStack-Frontend-Clone/"
+      "link":"https://boer-coding.github.io/weatherstack-web-clone/"
 
     },
     {
@@ -34,8 +34,7 @@
       "title": "Philadelphia Covid Data Explorer",
       "category": "Java Project",
       "image": "images/project-5.jpeg",
-      "link":"https://github.com/boer-coding/Philadelphia-Covid-Data-Explorer"
-
+      "link":"https://github.com/boer-coding/Philadelphia-covid-data-explorer"
     }
   ]
   
